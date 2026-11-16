@@ -1,108 +1,211 @@
 
+<!-- ================================================== -->
+<!--                    HEADER                          -->
+<!-- ================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Eduardo&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,20,24,25,30&fontColor=ffffff&desc=Front-End%20Developer%20%E2%80%A2%20Digital%20Designer%20%E2%80%A2%20Product%20Builder&descAlign=50&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Eduardo&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=DESIGN%20%20%2F%2F%20%20TECHNOLOGY%20%20%2F%2F%20%20PRODUCT&descSize=14&descAlignY=58&descColor=9DBDFF&color=0:080D18,35:102C50,70:174C79,100:080D18&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+modern+web+interfaces;Designing+digital+products;Combining+design%2C+code+and+product+thinking" />
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=21&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Building+digital+experiences.;Bridging+design+and+technology.;Turning+ideas+into+functional+products.;Creating+solutions+that+make+an+impact." />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FRONT--END%20DEVELOPMENT-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB" />
+<img src="https://img.shields.io/badge/PRODUCT%20DESIGN-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB" />
+<img src="https://img.shields.io/badge/DIGITAL%20SOLUTIONS-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB" />
 
 </div>
 
----
+<br/>
+
+<!-- ================================================== -->
+<!--                    ABOUT                           -->
+<!-- ================================================== -->
 
 ## About Me
 
-I work across front-end development, web design and digital product creation, helping turn ideas into modern and functional web experiences.
+I'm a digital professional working at the intersection of **technology, design and product development**.
 
-My profile connects **design and implementation**, allowing me to contribute from interface structure and prototyping to development, delivery and refinement.
+With a background in visual design and front-end development, I combine creative thinking and technical execution to transform ideas into functional, intuitive and well-designed digital experiences.
+
+My approach goes beyond writing code. I enjoy understanding problems, structuring solutions and building products that connect usability, performance and visual quality.
+
+- Front-end development and modern web interfaces.
+- UI/UX design, prototyping and design systems.
+- Digital product conception and development.
+- Software solutions and business process automation.
+- Continuous exploration of new technologies and AI.
+
+<br/>
 
 ---
 
-## Tech Stack
+<!-- ================================================== -->
+<!--                  TECH STACK                        -->
+<!-- ================================================== -->
+
+## Technology Stack
+
+### Development
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/API-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JSON-323330?style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postgres,aws&theme=dark" />
 
 </div>
 
----
-
-## Design & Product
+### Design & Product
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-<img src="https://img.shields.io/badge/CorelDRAW-2FA84F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI%2FUX-161B22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prototyping-1F2937?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector%20Design-374151?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-161B22?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Prototyping-161B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Design%20Systems-161B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Visual%20Design-161B22?style=for-the-badge" />
 
 </div>
 
----
-
-## Systems
+### Infrastructure & Tools
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple,vscode&theme=dark" />
 
 </div>
 
----
-
-## Focus Areas
-
-```text
-• Front-end Development
-• Web Design
-• Product Interfaces
-• Prototyping
-• Digital Presence
-• Custom Web Solutions
-```
+<br/>
 
 ---
 
-## GitHub Stats
+<!-- ================================================== -->
+<!--                   CAPABILITIES                     -->
+<!-- ================================================== -->
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Web Applications
+
+Modern web interfaces, responsive applications, API integrations and interactive digital experiences.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Business Systems
+
+Custom software, management platforms, process automation and integrated business solutions.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Digital Products
+
+UI/UX design, product interfaces, prototyping and design systems focused on usability.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ AI & Automation
+
+AI-powered applications, intelligent workflows and integrations that improve digital processes.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ================================================== -->
+<!--                   EXPERIENCE                       -->
+<!-- ================================================== -->
+
+## Professional Direction
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduDevDu&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevDu&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
+<img src="https://img.shields.io/badge/WIDE%20WEBS-DIGITAL%20SOLUTIONS-101827?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
 
 </div>
 
-<div align="center">
+I'm currently involved in building digital solutions through **Wide Webs**, combining software development, product thinking and design to help businesses transform ideas into functional digital products.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduDevDu&theme=github-dark&hide_border=true&radius=12" width="100%" />
+My work connects strategy, interface design and engineering to create solutions that solve real business problems.
 
-</div>
+<br/>
 
 ---
 
-## Current Direction
+<!-- ================================================== -->
+<!--                   GITHUB ACTIVITY                  -->
+<!-- ================================================== -->
 
-I’m currently involved in building digital solutions through **Wide Webs**, with a focus on modern interfaces, structured digital products and custom web experiences for growing businesses.
-
----
+## GitHub Activity
 
 <div align="center">
 
-### Let’s Connect
-
-Open to collaborations, freelance opportunities and interesting digital projects.
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EduDevDu&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&radius=8" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,25,30" />
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=EduDevDu&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ================================================== -->
+<!--                    CONTACT                         -->
+<!-- ================================================== -->
+
+## Let's Connect
+
+<div align="center">
+
+I'm always interested in meaningful collaborations, new challenges and opportunities to build digital products.
+
+<br/><br/>
+
+<a href="https://www.widewebs.com.br/" target="_blank">
+<img src="https://img.shields.io/badge/WIDE%20WEBS-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
+</a>
+
+<a href="https://github.com/EduDevDu" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<br/><br/>
+
+**Design with purpose. Build with technology.**
+
+</div>
+
+<!-- ================================================== -->
+<!--                     FOOTER                         -->
+<!-- ================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:080D18,50:102C50,100:080D18" />
