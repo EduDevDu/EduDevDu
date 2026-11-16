@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dogg&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,20,24,25,30&fontColor=ffffff&desc=Front-End%20Developer%20%E2%80%A2%20Digital%20Designer%20%E2%80%A2%20Product%20Builder&descAlign=50&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Eduardo&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,20,24,25,30&fontColor=ffffff&desc=Front-End%20Developer%20%E2%80%A2%20Digital%20Designer%20%E2%80%A2%20Product%20Builder&descAlign=50&descAlignY=60" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+modern+web+interfaces;Designing+digital+products;Combining+design%2C+code+and+product+thinking" />
 
@@ -77,8 +78,8 @@ My profile connects **design and implementation**, allowing me to contribute fro
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduDogg&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDogg&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduDevDu&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevDu&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
 
 </div>
 
