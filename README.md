@@ -84,7 +84,7 @@ My profile connects **design and implementation**, allowing me to contribute fro
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduDogg&theme=github-dark&hide_border=true&radius=12" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduDevDu&theme=github-dark&hide_border=true&radius=12" width="100%" />
 
 </div>
 
